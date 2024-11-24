@@ -1,2 +1,2 @@
 # PseudoImageClassification
-PseudoSorting for image classification
+PseudoSorting for image classification (WIP)
